@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/riccardoscalco/textures.git"
   },
+  "main": "textures.min.js",
   "keywords": [
     "d3",
     "svg",
